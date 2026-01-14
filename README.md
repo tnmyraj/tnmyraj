@@ -1,4 +1,4 @@
-## Hi there 👋
+
 Hi, I’m Tanmay 😄
 
 I’m a Cloud, AI & Data Engineering graduate student with hands-on experience building scalable, cloud-native data and AI solutions.
