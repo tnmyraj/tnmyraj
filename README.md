@@ -12,7 +12,9 @@
 •	Currently pursuing a Master’s in Information Technology & Management at UT Dallas and actively seeking Cloud, AI, and Data Engineering internship/full-time opportunities.
 
 📫 Let’s connect:
+
 LinkedIn → https://www.linkedin.com/in/tanmayraj5/
+
 Email → tanmayraj51@gmail.com
 <!--
 **tnmyraj/tnmyraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
